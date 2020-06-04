@@ -6,9 +6,6 @@ import java.util.regex.Pattern;
 
 public class LogFileManager {
 
-    // TODO: 03.06.2020 skaner do pobierania ścieżki źródłowej od użytkownika
-    // TODO: 03.06.2020 sprawdzić czy jak nie ma katalogu output, to aplikacja go stworzy czy muszę napisać do tego kod
-    // TODO: 03.06.2020 czy jak aplikacja odpalona z ikony to gdzie wyświetli się żądanie podania ścieżki
     // TODO: 03.06.2020 napisać testy
 
 
