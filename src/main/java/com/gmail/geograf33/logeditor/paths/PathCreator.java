@@ -22,4 +22,9 @@ public class PathCreator {
         return fileAndDirNamesList;
 
     }
+
+
+    public String extractMainDirPath (String mainDirPathWithFileName) {
+        return mainDirPathWithFileName.substring(0, mainDirPathWithFileName.lastIndexOf("\\"));
+    }
 }
